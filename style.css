@@ -1,0 +1,103 @@
+/* ============> Global < ============ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+
+body * {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #121214;
+  background-image: url(./assets/bg.svg);
+  background-position-x: center;
+  background-position-y: 65%;
+}
+
+#app {
+  width: fit-content;
+  margin: 52px auto;
+}
+
+header {
+  margin-bottom: 63px;
+  text-align: center;
+}
+
+header .logo {
+  width: initial;
+  border-radius: initial;
+}
+
+#cards {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.card {
+  padding: 32px 23px;
+  flex-grow: 1;
+  text-align: center;
+  background: #1d1c19;
+  border-bottom: 2px solid #f7dd43;
+  border-radius: 6px;
+}
+
+.card h2 {
+  display: flex;
+  gap: 16px;
+
+  padding: 8px 16px;
+  border: 1px solid #746615;
+  border-radius: 6px;
+
+  width: fit-content;
+  margin-bottom: 53px;
+  margin-inline: auto;
+
+  color: #f7dd43;
+}
+
+.card h2 span {
+  color: #e1e1e6;
+}
+
+.card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 0 auto;
+  width: 270px;
+}
+
+.card ul li + li {
+  padding-top: 24px;
+  border-top: 1px solid #323238;
+}
+
+.card ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 125%;
+  color: #e1e1e6;
+}
