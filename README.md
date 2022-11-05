@@ -18,7 +18,7 @@
   <img alt="Calendario da copa" src=".github/preview.png">    
 </p>
 
-<a href="https://brunogoncalvesferreira.github.io/world-cup-schedule/">Clique aqui e veja o projeto funcionando</a>
+<a href="https://brunogoncalvesferreira.github.io/world-cup-schedule/" target="_blank">Clique aqui e veja o projeto funcionando</a>
 
 </br>
 
