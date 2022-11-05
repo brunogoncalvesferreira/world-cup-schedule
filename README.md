@@ -3,9 +3,9 @@
 <p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia WEB.</p>
 
 <p align="center">
-  <a href="##-tecnologias" style="border-bottom: 3px solid ">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="##-projeto" style="border-bottom: 3px solid ">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="##-layout" style="border-bottom: 3px solid ">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 </br>
