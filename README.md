@@ -56,4 +56,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 
 <img src="https://github.com/brunogoncalvesferreira.png" width="20%"/>
 </br>
-<a href="https://www.linkedin.com/bruno-goncalves-ferreira">Bruno Gonçalves Ferreira</a>
+<a href="https://www.linkedin.com/in/bruno-goncalves-ferreira">Bruno Gonçalves Ferreira</a>
