@@ -1,6 +1,6 @@
 <h1 align="center">NLW 10 Copa </h1>
 
-<p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnoligia WEB.</p>
+<p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia WEB.</p>
 
 <p align="center">
   <a href="#-Tecnologias" style="border-bottom: 3px solid ">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;
